@@ -1,4 +1,4 @@
-# Scala Examples: Learn by Coding 🚀
+# Scala Examples
 
 This repository is all about learning Scala from scratch by diving into code. Each file in this repository covers a specific concept.
 
