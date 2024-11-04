@@ -1,4 +1,4 @@
-# Scala Beginner's Journey: Learning by Coding 🚀
+# Scala Examples: Learn by Coding 🚀
 
 This repository is all about learning Scala from scratch by diving into code. Each file in this repository covers a specific concept.
 
