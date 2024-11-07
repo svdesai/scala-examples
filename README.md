@@ -32,15 +32,6 @@ Below are some slightly harder, more leetcode-ish problems which make use of sim
 
 ---
 
-## 📈 What’s Next?
-
-The repository will keep growing as new examples and challenges are added. Future topics might look like:
-- Functional programming concepts like immutability and pure functions
-- Collections, maps, sequences, concurrency
-- Leetcode solutions
-
----
-
 ## 💡 Contributions
 
 Contributions are welcome! Anyone with ideas for new examples, improvements, or additional challenges can open an issue or submit a pull request.
